@@ -1,0 +1,23 @@
+.message{
+  text-align: center;
+  font-size: 10.2564102564vw;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: transparent;
+  -webkit-text-stroke: 1.5px #000000;
+  transition: color 1000ms ease-out;
+  transition: revert 0.01s;
+
+}
+
+.message:hover {
+  color: #000000;
+  cursor: pointer;
+
+}
+
+.custom_hr{
+  border: 1px solid black; /* Thickness and color */
+}
